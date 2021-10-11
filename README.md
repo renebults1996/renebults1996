@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rene Bults
-- 👀 I’m Gadgets, retro gaming, computers
+- 👀 I’m interested in gadgets, retro gaming, computers, science
 - 🌱 I’m currently doing genetic research using R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me: Snapchat: Renebults96 | instagram: rbults96
