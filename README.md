@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <h4>Me: will there be a bug in the code?</h4>
-  <h4>...</h4>
-  <h4>The code: </h4>
+  <h3>Me: will there be a bug in the code?</h3>
+  <h3>...</h3>
+  <h3>The code: </h3>
 </div>
 
 <div id="header" align="center">
