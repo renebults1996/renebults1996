@@ -1,5 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="300"/>
+  <h4>Me: will there be a bug in the code?</h4>
+  <h4>...</h4>
+  <h4>The code: </h4>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/GkVM3PcFipxEk/giphy.gif" width="300"/>
 </div>
 
 <br /> 
